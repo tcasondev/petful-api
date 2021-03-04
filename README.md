@@ -1,8 +1,8 @@
 # Welcome to Petful!
 
-## Live Link: 
+## Live Link: https://cason-petful-api.herokuapp.com/
 
-Client Repo: 
+Client Repo: https://github.com/tcasondev/petful-client
 Front-End: `ReactJS, JSX`
 
 Sever-Side: `NodeJS, ExpressJS`
